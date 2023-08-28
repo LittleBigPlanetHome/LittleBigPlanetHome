@@ -1,0 +1,131 @@
+Included is a list of properties for the model's materials.
+It's difficult to export these properties correctly,
+so I've compiled a list of how all the textures are used on which materials.
+
+
+sack_boy_weave_base:
+Diffuse: FFFFFF
+Specular: 7F7F7F
+
+sackboy_pinched_dirt:
+Extension: Repeat
+Offset: X: 0.0 Y: 0.0
+Size: X: 1.0 Y: 1.0
+UV Map: TEXCOORD_0
+Useage: Ambient Occlusion
+
+knit_2_diffuse:
+Extension: Repeat
+Offset: X: 0.0 Y: 0.0
+Size: X: 3.0 Y: 3.0
+UV Map: TEXCOORD_0
+Useage: Diffuse
+
+knit_2_bump:
+Extension: Repeat
+Offset: X: 0.0 Y: 0.0
+Size: X: 3.0 Y: 3.0
+UV Map: TEXCOORD_0
+Useage: Normal
+
+
+sack_boy_stitching_decal:
+Diffuse: FFFFFF
+Specular: 7F7F7F
+
+sackboy_stitch_diffuse:
+Extension: X: Clamp Y: Repeat
+Offset: X: 0.0 Y: 0.0
+Size: X: 1.0 Y: 1.0
+UV Map: TEXCOORD_1
+Useage: Diffuse, Alpha
+
+sackboy_stitch_bump:
+Extension: X: Clamp Y: Repeat
+Offset: X: 0.0 Y: 0.0
+Size: X: 1.0 Y: 1.0
+UV Map: TEXCOORD_1
+Useage: Normal
+
+
+sack_boy_zip_decal:
+Diffuse: FFFFFF
+Specular: FFFFFF
+
+zip_1_diffuse:
+Extension: Repeat
+Offset: X: 0.0 Y: 0.0
+Size: X: 1.0 Y: 1.0
+UV Map: TEXCOORD_1
+Useage: Diffuse, Alpha
+
+zip_1_bump:
+Extension: Repeat
+Offset: X: 0.0 Y: 0.0
+Size: X: 1.0 Y: 1.0
+UV Map: TEXCOORD_1
+Useage: Normal
+
+zip_1_specular:
+Extension: Repeat
+Offset: X: 0.0 Y: 0.0
+Size: X: 1.0 Y: 1.0
+UV Map: TEXCOORD_1
+Useage: Specular
+
+
+sack_boy_tongue:
+Diffuse: FFFFFF
+Specular: 7F7F7F
+
+white_cotton_1_bump:
+Extension: Repeat
+Offset: X: 0.0 Y: 0.0
+Size: X: 1.0 Y: 1.0
+UV Map: TEXCOORD_0
+Useage: Normal
+
+white_cotton_1_specular:
+Extension: Repeat
+Offset: X: 0.0 Y: 0.0
+Size: X: 1.0 Y: 1.0
+UV Map: TEXCOORD_0
+Useage: Specular
+
+pink_stars:
+Extension: Repeat
+Offset: X: 0.0 Y: 0.0
+Size: X: 1.0 Y: 1.0
+UV Map: TEXCOORD_0
+Useage: Diffuse
+
+sackboy_tongue_dirt:
+Extension: Repeat
+Offset: X: 0.0 Y: 0.0
+Size: X: 1.0 Y: 1.0
+UV Map: TEXCOORD_0
+Useage: Ambient Occlusion
+
+
+eye:
+Diffuse: 000000
+Specular: FFFFFF
+
+
+zip_pull_steel:
+Diffuse: FFFFFF
+Specular: FFFFFF
+
+alluminum_1_diffuse:
+Extension: Repeat
+Offset: X: 0.0 Y: 0.0
+Size: X: 1.0 Y: 1.0
+UV Map: TEXCOORD_0
+Useage: Diffuse
+
+zip_pull_dirt:
+Extension: Repeat
+Offset: X: 0.0 Y: 0.0
+Size: X: 1.0 Y: 1.0
+UV Map: TEXCOORD_0
+Useage: Ambient Occlusion, Specular

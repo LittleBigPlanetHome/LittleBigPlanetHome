@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="VisualElement">
+        <ui:VisualElement name="Container" style="height: 1076px;" />
+    </ui:VisualElement>
+    <ui:Label text="Friends" display-tooltip-when-elided="true" name="Friends" style="height: 183px; -unity-background-scale-mode: stretch-to-fill; font-size: 135px; width: 840px; white-space: nowrap; position: absolute; top: 336px; left: 536px; -unity-font: url(&apos;project://database/Assets/Fonts/Eigerdals%20Heavy.OTF?fileID=12800000&amp;guid=0509145f6e22fc1408bc83c2ef751546&amp;type=3#Eigerdals Heavy&apos;);" />
+    <ui:Label text="Username" display-tooltip-when-elided="true" name="UserName" style="height: 123px; -unity-background-scale-mode: stretch-to-fill; font-size: 120px; width: 808px; white-space: nowrap; position: absolute; top: -16px; left: 576px; -unity-font: url(&apos;project://database/Assets/Fonts/Eigerdals%20Heavy.OTF?fileID=12800000&amp;guid=0509145f6e22fc1408bc83c2ef751546&amp;type=3#Eigerdals Heavy&apos;); color: rgba(255, 255, 255, 255);" />
+    <ui:IMGUIContainer style="height: 908px;" />
+</ui:UXML>

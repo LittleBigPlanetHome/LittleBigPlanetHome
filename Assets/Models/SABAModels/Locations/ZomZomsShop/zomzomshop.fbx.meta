@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 30a60fe49da6495478bcc86815c81021
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LampAOff_CR_MI.mat
+    second: {fileID: 2100000, guid: de58c44aa99ca09419b1bdf85d441853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LampA_CR_MI.mat
+    second: {fileID: 2100000, guid: 6a6c19083e110f340a53917d6397e752, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LanternPaperA_PS_MI.mat
+    second: {fileID: 2100000, guid: 69e38c0c42e10fb48a572157bb09c124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeatherPouf_CR_MI.mat
+    second: {fileID: 2100000, guid: b8cf2bfde0c6df54095901a87c73bbd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PillowCloth_CR_MI.mat
+    second: {fileID: 2100000, guid: 8ee177626059bf74095f5e1466d66fa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillow_CR_MI.mat
+    second: {fileID: 2100000, guid: 015dc8849e396c84a8ff11da238549bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TempZomFloorBoxSides_UI_MI.mat
+    second: {fileID: 2100000, guid: 7bbd7f78c19789246b4bf0fc1d612eb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TempZomFloorBox_UI_MI.mat
+    second: {fileID: 2100000, guid: 83036e661d081f84fb9cecb7d8df7dab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZomZomCostumeShopUI_Carpet_MI.mat
+    second: {fileID: 2100000, guid: 258751fa66b98654fa5b26d9aafcf593, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZomZomCostumeShopUI_CurtainAA_MI.mat
+    second: {fileID: 2100000, guid: d5655f2836f7cd3439c1546ac0f44c5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZomZomCostumeShopUI_CurtainAB_MI.mat
+    second: {fileID: 2100000, guid: 1adf31a1ab048e141aec427720049098, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZomZomCostumeShopUI_CurtainBA_MI.mat
+    second: {fileID: 2100000, guid: 6a945eea5009bcd4e81efd7144427720, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZomZomCostumeShopUI_CurtainBB_MI.mat
+    second: {fileID: 2100000, guid: fe09f0e759e813546a021000467a4d44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZomZomCostumeShopUI_CurtainCA_MI.mat
+    second: {fileID: 2100000, guid: 568beb3d5cacbbf4abcdde47a85930ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZomZomCostumeShopUI_CurtainE_MI.mat
+    second: {fileID: 2100000, guid: 4ad5f099e1075e645be394134df3ac79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZomZomCostumeShopUI_GoldenFoilTileable_MI.mat
+    second: {fileID: 2100000, guid: 0363456978da69243bd04c83dc87386a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZomZomCostumeShopUI_Roof_MI.mat
+    second: {fileID: 2100000, guid: 446731dd99845f8428b2ec09642d55b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZomZomShopCarboardFloor_CR_MI.mat
+    second: {fileID: 2100000, guid: 38e0ebdfd8b4c804fb372438862b5854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZomZomShopCarpetRoundA_CR_MI.mat
+    second: {fileID: 2100000, guid: 1ff8b826b773d234ca96d2f259c456b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZomZomShopInteriorA_Elements_MI.mat
+    second: {fileID: 2100000, guid: a16ebb6c56f38ec41ab5d5d645809a18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZomZomShop_Background_PS_MI.mat
+    second: {fileID: 2100000, guid: 23e6ed66f78fecf4f825f2e14d77b26f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZomZomShop_Star_MI.mat
+    second: {fileID: 2100000, guid: b4cafa55d1cf0c74abc691629725a8a1, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e43476b4-1840-4df0-806e-d42c78de1330}">
+		<property name="assetPath">
+			<value>pod/pod_spawn_03.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.80544217687074826</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{04a918bd-cd56-4f3b-a910-258ea480a5d8}</destination>
+		</relationship>
+	</object>
+</objects>

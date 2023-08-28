@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Bank" id="{7fadd39a-1bfd-411a-a01b-118ae1b07c19}">
+		<property name="name">
+			<value>LBPHome_SFXBank</value>
+		</property>
+		<relationship name="folder">
+			<destination>{be22511d-a8e3-4c4a-843e-89dd3e6e8853}</destination>
+		</relationship>
+	</object>
+</objects>

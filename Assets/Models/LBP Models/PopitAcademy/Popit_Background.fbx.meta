@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: 31becd0d47f8ce845975464962b83da9
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_02
+    second: {fileID: 2100000, guid: ef8d334130aa968488c7da3e19273a3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_05
+    second: {fileID: 2100000, guid: 77d51cdcc2e0a614cb06e47e0b3483c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_08
+    second: {fileID: 2100000, guid: 1ec7eb45a47194448b1cae5f3c3f8aa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_09
+    second: {fileID: 2100000, guid: fe89177849605784cafdd52163d60590, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_10
+    second: {fileID: 2100000, guid: c12a8eae9527ad54aad573f289eccf06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_13
+    second: {fileID: 2100000, guid: 7b8bd7e9e74547549b47f2e8c5726409, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_14
+    second: {fileID: 2100000, guid: 6ad94a17de413fc498e59d9e28b5641d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_15
+    second: {fileID: 2100000, guid: 291b5271979b8e44bbb9dea02820eb69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_17
+    second: {fileID: 2100000, guid: 8cb5ab32bb14a2648bd1794ad267b13c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_18
+    second: {fileID: 2100000, guid: 9b041a9ec9f7ce54aa7a99d0ffbea730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_19
+    second: {fileID: 2100000, guid: a46c741eb2b7a144a99e83c792550acc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_21
+    second: {fileID: 2100000, guid: a40bd9c89357aa343bc9af53c93cb243, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_22
+    second: {fileID: 2100000, guid: 2d06c6f4998b9bf4eb3c8e5aedd153f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_23
+    second: {fileID: 2100000, guid: d0897b115e8cdea4ca6f54085dfdd6bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_24
+    second: {fileID: 2100000, guid: 48206e0f8d7ac764582752642287375f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_25
+    second: {fileID: 2100000, guid: a754e72fa69720042bf992094bb0d508, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_26
+    second: {fileID: 2100000, guid: df8bba6ef4de9ab44b8bb419c7604137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_28
+    second: {fileID: 2100000, guid: 85379d4a360d95a4b88535e9960b65a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_30
+    second: {fileID: 2100000, guid: eaeb6cb1eebdd894f82719ce6e0c8bad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_33
+    second: {fileID: 2100000, guid: 50116b4030ffc114aa5ac631cd1bc86e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_calssroom_56
+    second: {fileID: 2100000, guid: 90646d82d81f4d1429f391db8b4bcd49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_chairleather
+    second: {fileID: 2100000, guid: 270be39b383d8384d9218d00b2025fa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_classroom_01
+    second: {fileID: 2100000, guid: 87d2a3d29932ed44a822d818137450d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_classroom_05a
+    second: {fileID: 2100000, guid: 25387fcb158148d48980bad6a99342fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_classroom_07
+    second: {fileID: 2100000, guid: ef1c098b252be2047917a292c1680d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_classroom_35
+    second: {fileID: 2100000, guid: 49c36597b5b292f42ac3d26414d4f9f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_classroom_36
+    second: {fileID: 2100000, guid: b0d869493e00f2445b3ed49bc630dd12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_ladybird_books_a2
+    second: {fileID: 2100000, guid: d60d260cd1954c4439c77a9abe66a3f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_ladybird_books_b2
+    second: {fileID: 2100000, guid: 71df5a884a6eca24bb9482dd832e322a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_ladybird_books_c2
+    second: {fileID: 2100000, guid: 290eca9661153e548b9f743be57075df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_ladybird_books_d2
+    second: {fileID: 2100000, guid: 8aa402f25dd89894d9657dfae815591b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_ladybird_books_e2
+    second: {fileID: 2100000, guid: c4342d7893972884f98ad1d323d05641, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_ladybird_books_f2
+    second: {fileID: 2100000, guid: a3af21244d851de4dba513cbdf2f7589, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_paint_mugbg
+    second: {fileID: 2100000, guid: 13118d2fb2d4c3148943bfa461321c13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_planets_papmash_a2
+    second: {fileID: 2100000, guid: 4d3f08cf020bd2a409990beb153ca842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_planets_papmash_a_ring2
+    second: {fileID: 2100000, guid: 2fb551d4accddd14d81539244c9ed4cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_planets_papmash_b2
+    second: {fileID: 2100000, guid: 7b0b7b7846cf5b0499c1da7078ab3fbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_planets_papmash_c2
+    second: {fileID: 2100000, guid: 8e20dadacad6e6248ab7518767c74066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_planets_papmash_d2
+    second: {fileID: 2100000, guid: 207d5b8931fc16741af9cfda0fa8b2f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_planets_papmash_e2
+    second: {fileID: 2100000, guid: e41986042a9de564c980d6a14b749238, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_planets_papmash_e_ring2
+    second: {fileID: 2100000, guid: b3a3b3ae8d4fd234aa0c14955e87c853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_posterabc2
+    second: {fileID: 2100000, guid: da129ff35e7422f4d8e7da48286789ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_posternumbers2
+    second: {fileID: 2100000, guid: db8239c1b446e3c44bbb70dc36eb620f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_postes_a
+    second: {fileID: 2100000, guid: 98052b4ed1f581d438b2d876f7d71b0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_postes_b
+    second: {fileID: 2100000, guid: a12ad92455fb6e445a7d1fe74212da30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_sea2
+    second: {fileID: 2100000, guid: a1b92897d68e18945b2f9be429662013, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp_sky2
+    second: {fileID: 2100000, guid: b8e445467a83d2244b71b89f7aa6c234, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

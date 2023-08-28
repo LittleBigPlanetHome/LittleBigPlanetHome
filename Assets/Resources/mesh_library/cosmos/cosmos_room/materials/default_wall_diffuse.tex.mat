@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: default_wall_diffuse.tex
+  m_Shader: {fileID: 4800000, guid: e8c1f7665c803714497a461e6e947dbb, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - NORMAL_MAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DecalTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffuseTexture:
+        m_Texture: {fileID: 2800000, guid: b0b254eef9f1b2e4bae87ff7f9f9bd11, type: 3}
+        m_Scale: {x: 0.65, y: 1}
+        m_Offset: {x: 0.3555, y: 0}
+    - _Emm:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Fal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Fal2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal2Texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PodFadeTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PodMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sphere:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - PodFadeEnabled: 0
+    - UseAlphaBackground: 0
+    - UseSecondNormal: 0
+    - _BumpScale: 1
+    - _CullingID: 2
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _Dirt2Strength: 1
+    - _DirtStrength: 1
+    - _DstBlend: 0
+    - _EffectAmount: 1
+    - _EnableNormalMap: 1
+    - _FalloffBrightness2: 2
+    - _FalloffExponent: 2
+    - _FalloffExponent2: 1.3
+    - _FalloffPow: 1.25
+    - _FresnelStrength: 0.5
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _MaskSize: 6.5
+    - _MaxBrightness: 999999
+    - _Metallic: 0
+    - _Mode: 0
+    - _Normal2Strength: 0
+    - _NormalStrength: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _ReflectStrength: 0.15
+    - _RimBias: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularBrightness: 0.5
+    - _SpecularHighlights: 1
+    - _SpecularPower: 16
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _decaluv: 0
+    - _diffuv: 0
+    - _dirt1uv: 1
+    - _dirt2uv: 0
+    - _emmBrightness: 0
+    - _nrm2uv: 0
+    - _nrmuv: 0
+    - _podfadeuv: 0
+    - _refuv: 2
+    - _specuv: 0
+    - dirt2Power: 1
+    - dirtMultiplier: 1
+    - dirtPower: 1
+    m_Colors:
+    - _AlphaBackground: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DecalColor: {r: 0, g: 0, b: 0, a: 0}
+    - _DiffuseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _PodFadeColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ReflectColor: {r: 1, g: 1, b: 1, a: 1}
+    - _emmColour: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 6264c0acc32f8de47a8b41bc7fc33a9d
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_FIREPLACECONCRETE01_D.env_pod_p
+    second: {fileID: 2100000, guid: dfdccc85117ab7d45bf96af4e565dfc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD1_SKYDOME.env_pod_pano1
+    second: {fileID: 2100000, guid: 58a346aabb0635c4eabacb2e20b4bd62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_BASKETBALL01.env_pod_pano1
+    second: {fileID: 2100000, guid: 46d41c025df7885418fc59383ae8c1e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_BEAMWOOD01.env_pod_pano1
+    second: {fileID: 2100000, guid: afd0fe552c20acd46a72cf4676e1f970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_CANVASFABRIC01.env_pod_pano
+    second: {fileID: 2100000, guid: f0e68f404f14fec47ba97b381b592c98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_CANVASPAINTING01.env_pod_pa
+    second: {fileID: 2100000, guid: 9670e5c3437164249a4104a146ce8d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_CANVASPAINTING02.env_pod_pa
+    second: {fileID: 2100000, guid: 51f27ea3bb15bed4a9d5106f75f1016a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_CANVASPAINTING03.env_pod_pa
+    second: {fileID: 2100000, guid: f6472cfa34a727e4e9decdffacd9f3ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_CANVASSTAPLES01.env_pod_pan
+    second: {fileID: 2100000, guid: 3b8a2a1c29649c241bd08c457b27e670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_CANVASWOOD01.env_pod_pano1
+    second: {fileID: 2100000, guid: 970bf33d5691099499d9f46cbc2bcf01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_CARDBOARDBOXES01.env_pod_pa
+    second: {fileID: 2100000, guid: 8c77195d335ffa74c85b3bd1f53a8948, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_CARDBOARDEDGE01.env_pod_pan
+    second: {fileID: 2100000, guid: 86e6d1795ef604f4f9e68a8a2f2432b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_CRAFTSUPPLIES01.env_pod_pan
+    second: {fileID: 2100000, guid: 3ca2d55ac3e224e49807dde259ff8063, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_DESK.env_pod_pano1
+    second: {fileID: 2100000, guid: 7f3ae3223c6585d49a2019a729084609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_DESKLAMPMETAL.env_pod_pano1
+    second: {fileID: 2100000, guid: b39cfedc01e440041968689078455d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_DRESSFORMMETAL.env_pod_pano
+    second: {fileID: 2100000, guid: abe8f23cd2395ab4a82b4a10c869bf1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_FABRICDENIMCHECKER.env_pod_
+    second: {fileID: 2100000, guid: 9dcc0573640f7b24caa58b58ade219da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_FABRICFLORAL.env_pod_pano1
+    second: {fileID: 2100000, guid: f6c9a5a717182654882b72fe9049d4e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_FABRICGREEN01.env_pod_pano1
+    second: {fileID: 2100000, guid: 1c9b763a0b902cc47af279b7da291601, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_FABRICTWEED01.env_pod_pano1
+    second: {fileID: 2100000, guid: b1cad95e0a5831b4b9da92dc17ebeecd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_FIREPLACEBRICK01_D.env_pod_
+    second: {fileID: 2100000, guid: 217b5105ee54da748893c3d2a9b2301e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_FIREPLACEMETAL01.env_pod_pa
+    second: {fileID: 2100000, guid: f7eeef3a385b6f44fbc0864fe997ccc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_LIGHTBULB.env_pod_pano1
+    second: {fileID: 2100000, guid: 1c74959d78927df42a2e2ed503a92662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_LIGHTPLASTIC.env_pod_pano1
+    second: {fileID: 2100000, guid: 8489cba5d4d46d643af0974a037f1e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_NOTEBOOK01.env_pod_pano1
+    second: {fileID: 2100000, guid: 6c72d038537b2fb4e955598e59a37456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_NOTEBOOKSPIRAL01.env_pod_pa
+    second: {fileID: 2100000, guid: 87c9d2db5b934f74c83bf508fcbc967c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_PAINTBUCKETS01.env_pod_pano
+    second: {fileID: 2100000, guid: 3ea8bc0b570254c419e9bfa6be6d34d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_POLYSTERENE01.env_pod_pano1
+    second: {fileID: 2100000, guid: 0c63cc6d6205f784aae647aed554e8c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_SKETCHES01.env_pod_pano1
+    second: {fileID: 2100000, guid: 2f11800b801969b4eb1e20a3384823b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_SKETCHES02.env_pod_pano1
+    second: {fileID: 2100000, guid: f6dcf0b0632cc1b43a5bdd44811ac562, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_STARCHART01.env_pod_pano1
+    second: {fileID: 2100000, guid: 6be9f2a9ecfba4b49bcc9f79ce87e79a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_TAPE01.env_pod_pano1
+    second: {fileID: 2100000, guid: 9fb6f02815c414c4eb8fbd34eda63cf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_TREASURECHEST01.env_pod_pan
+    second: {fileID: 2100000, guid: 5519a027ea09e44499315c41cd90e3a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_WALLWOOD01.env_pod_pano1
+    second: {fileID: 2100000, guid: 4c48916893f4c4c42b9b19fff284fad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_POD_WOODLIGHT01.env_pod_pano1
+    second: {fileID: 2100000, guid: b2272dd669cfe7b448330ae22beef39a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: POD_GODRAYS.env_pod_pano1
+    second: {fileID: 2100000, guid: 83a02181e70bdd14486ec311dbe40b8c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

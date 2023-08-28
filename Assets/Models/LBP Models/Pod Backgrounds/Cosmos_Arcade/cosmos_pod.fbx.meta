@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: a7a1977c8366e8a4ab5b662e58eee3a9
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_arcade_03_black
+    second: {fileID: 2100000, guid: 120b62ffeaeb18c46a8e1dc6f715d4cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_arcade_machine_03_diffuse2
+    second: {fileID: 2100000, guid: f0978904e956cc7409c64978a250ba51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_bin_lid_01
+    second: {fileID: 2100000, guid: 782208061ad84a34099b0134f7357621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_bin_paint_01
+    second: {fileID: 2100000, guid: 905f0166d184ce3419055dac7586ca98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_cellblue
+    second: {fileID: 2100000, guid: ed90a9f5e7eb169419e67455c4e6bf98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_cellgreen
+    second: {fileID: 2100000, guid: dde401d288217db4eb1f860bdd6424a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_cellpink
+    second: {fileID: 2100000, guid: 716bbb530d3b0704e80e18c67b6c9662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_cellyellow
+    second: {fileID: 2100000, guid: 46b288ac407f6454a8f4f6b055d20fde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_01_brushedmetal
+    second: {fileID: 2100000, guid: bc3fe402cbbd06c4692bd6fff059be34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_01_cover
+    second: {fileID: 2100000, guid: cddb85564335afe4dbddfc4f3b649f1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_01_metalblack
+    second: {fileID: 2100000, guid: 295a66dc0f1c1df4f82c0f0c25d36869, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_01_pinball_bolt
+    second: {fileID: 2100000, guid: d9601807689d9d7469c5a6496ba79652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_01_plastic
+    second: {fileID: 2100000, guid: 84ce8425291ad0742a58b556eda218b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_01_scoredisplay
+    second: {fileID: 2100000, guid: ff0a31b5c4c909b44950a1a8e54b9cd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_01_speakers
+    second: {fileID: 2100000, guid: e53437b661b5f0749aa85211e0f78184, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_02_brushedmetal
+    second: {fileID: 2100000, guid: 6072e8fecbc0b324988c8ba9411edbea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_02_cover
+    second: {fileID: 2100000, guid: e41fc1671181c554890ff227ec3358e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_02_metalblack
+    second: {fileID: 2100000, guid: 4371110870d2d3b4690645510e4919c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_02_pinball_bolt
+    second: {fileID: 2100000, guid: 56f0313d0c276fc46beabf0ab5800268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_02_speakers
+    second: {fileID: 2100000, guid: 88c049f38107cc44a8384bc91c3b2832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_03_brushedmetal
+    second: {fileID: 2100000, guid: 04e4c018a4f12de45abf8ed30d99644c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_03_cover
+    second: {fileID: 2100000, guid: 94d67954933d3764894c143dc3721d26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_03_metalblack
+    second: {fileID: 2100000, guid: 366a601869b1c2b438fd47fd86c9ac75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_03_plastic
+    second: {fileID: 2100000, guid: 1fabc4587b02c004ab286a1c776b6c61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_03_playsurface
+    second: {fileID: 2100000, guid: 4f9f64dabca90f2488e808f89e43a7f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pinball_03_scoredisplay
+    second: {fileID: 2100000, guid: d275fe2f79a34db48bb59aa64b7b016f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_pizzabox_opened
+    second: {fileID: 2100000, guid: c64d86c063032f240b5dd1634c3709eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_podroom_cellblue
+    second: {fileID: 2100000, guid: 61918365f070479448417d1d8506d073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_podroom_cellgreen
+    second: {fileID: 2100000, guid: 878d1496b807a6748830b834883886e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_podroom_cellpink
+    second: {fileID: 2100000, guid: f7f73fd32fa4fda499a1f85ab96c2bf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_podroom_cellyellow
+    second: {fileID: 2100000, guid: 539ce898cc18d954b8176479ebda51c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_podroom_pinball_02_plastic
+    second: {fileID: 2100000, guid: 61be24177138050458e2f189124326f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_podroom_pinball_02_playsurface
+    second: {fileID: 2100000, guid: 8bd85fa073d2ec8498612cb558178dd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_podroom_pinball_02_toplcd
+    second: {fileID: 2100000, guid: cc75ed29e767e054bbe787bb28112fcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_room_cosmos_ceiling
+    second: {fileID: 2100000, guid: cb9220bf95503624f97dd3248a63a1e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_room_cosmos_floor
+    second: {fileID: 2100000, guid: 43c2e26fbe7921c4c86d475f6d1af46f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_room_cosmos_wall
+    second: {fileID: 2100000, guid: 2bced080694bb2646a6932522b28094f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_stool_01_metal
+    second: {fileID: 2100000, guid: 8bacb5d9e54d61a48b2326ff5623ad7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_stool_01_red
+    second: {fileID: 2100000, guid: 7e59b2cfa4b79a04dafa35ab018833a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_stool_01_red_trim
+    second: {fileID: 2100000, guid: 54fd2f72f930ebf4c9f3edf84d0cbcea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosmos_stool_01_wood
+    second: {fileID: 2100000, guid: a4198c3cde6fca34fbe3f43ef51aa9fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podroom_arcade_machine_03_diffuse1
+    second: {fileID: 2100000, guid: 38b6c275a071d7a4aafe7d705f4bb2f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podroom_arcade_screen_space_02
+    second: {fileID: 2100000, guid: f569eea9ee18fb4438981e6b8da514dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podroom_pinball_01_overheadscreen
+    second: {fileID: 2100000, guid: 3fa9a87860f7c5648a38bde93ceb7d77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podroom_pinball_01_playsurface
+    second: {fileID: 2100000, guid: ce0ae1000ed5ccd419dd115704b13d7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podroom_pinball_02_overheadscreen
+    second: {fileID: 2100000, guid: 85d584d0b20287542943c9db2fdb818a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podroom_pinball_02_scoredisplay
+    second: {fileID: 2100000, guid: 9206f8ae4a872d349a5029514c07ab2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podroom_pinball_03_overheadscreen
+    second: {fileID: 2100000, guid: f90cdc4682a281a498635913aa3fce41, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

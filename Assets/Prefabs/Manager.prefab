@@ -1,0 +1,373 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6686101035614957730
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6686101035614957728}
+  - component: {fileID: 6686101035614957731}
+  - component: {fileID: 6686101035614957729}
+  - component: {fileID: 6686101035614957735}
+  - component: {fileID: 6686101035614957734}
+  - component: {fileID: 6686101035614957732}
+  m_Layer: 0
+  m_Name: Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6686101035614957728
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6686101035614957730}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.54, y: 8.99, z: -0.83}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6686101035614957731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6686101035614957730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80ede7a4e7bd98647b60022ef109ac63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OverrideBaseURL: http://localhost:42069
+  cachedCommunityProfile:
+    username: You
+    description: 'You didn''t log in yet.
+
+      Register your account in the Community
+      tab.'
+    password: 
+    imageURL: 
+    pins:
+    - displayNameId: 
+      displayDescriptionId: 
+      displayPicture: {fileID: 0}
+    - displayNameId: 
+      displayDescriptionId: 
+      displayPicture: {fileID: 0}
+    - displayNameId: 
+      displayDescriptionId: 
+      displayPicture: {fileID: 0}
+    allLevels: []
+    likes: 0
+  connectedToServer: 0
+  connectedServer:
+    ServerOnline: 0
+    ServerId: 
+    ServerLastStarted: 
+  onServerConnect:
+    m_PersistentCalls:
+      m_Calls: []
+  onServerDisconnect:
+    m_PersistentCalls:
+      m_Calls: []
+  cachedAnnouncements:
+    announcements: []
+  checkedAnnouncements: 0
+  buttonsIdleColor: {r: 0.1254902, g: 0.38039216, b: 0.7372549, a: 1}
+  buttonsHoveredColor: {r: 0.5803922, g: 0.7254902, b: 0.14509805, a: 1}
+  buttonsClickedColor: {r: 0.1273585, g: 0.3292683, b: 0.509434, a: 1}
+  buttonsDisabledColor: {r: 0.12589, g: 0.26953286, b: 0.38679248, a: 1}
+  buttonsSelectedColor: {r: 0.5803922, g: 0.7254902, b: 0.14509805, a: 1}
+--- !u!114 &6686101035614957729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6686101035614957730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6ba5d3135b47d044bb1b592fecdaf41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  strings:
+  - name: InteractPod
+    value: Use Pod Computer
+  - name: LoadingText
+    value: CRAFTING YOUR EXPERIENCE...
+  - name: GenericInteract
+    value: Use
+  - name: CommunityEarth
+    value: Online Earth
+  - name: CreativeMoon
+    value: Creative Moon
+  - name: StoryLine
+    value: Play
+  - name: CommunityLine
+    value: Community
+  - name: StoreLine
+    value: Store
+  - name: Back
+    value: Back
+  - name: DBGCreateLevel
+    value: '[DEBUG] Create Level'
+  - name: SelectCreation
+    value: Select a creation!
+  - name: SearchParty
+    value: DIVE IN!
+  - name: RecentNews
+    value: Recent News
+  - name: Next
+    value: Next
+  - name: Previous
+    value: Previous
+  - name: Me
+    value: Me
+  - name: Account
+    value: Account
+  - name: LevelSearch
+    value: Text Search
+  - name: Story
+    value: Play
+  - name: LoginUITitle
+    value: Log into your LittleBigPlanet Home account!
+  - name: ModLine
+    value: Mods and Tools
+  - name: PodController
+    value: Use Pod Controller
+  - name: ModelPS3
+    value: Sackboy (PS3)
+  - name: ModelPS4
+    value: Sackboy (PS4)
+  - name: SfxToggle
+    value: Toggle SFX
+  - name: testExample
+    value: Test
+  - name: ps3podc
+    value: PS3 Pod Controller
+  - name: ps4podc
+    value: PS4 Pod Controller
+  - name: playerpins
+    value: My Pins
+--- !u!114 &6686101035614957735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6686101035614957730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a525cc9dfce03479a3940e045601ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  onHoverButton: {fileID: 6686101035614957732}
+  onClick: {fileID: 8300000, guid: 7303fe77f8a724b4f933259ad72e53f9, type: 3}
+  DefaultClick: {fileID: 8300000, guid: 7303fe77f8a724b4f933259ad72e53f9, type: 3}
+  popitHover: {fileID: 8300000, guid: 3adece6b1f15f56468f9bfa5e547986d, type: 3}
+  popitClick: {fileID: 8300000, guid: 8eb2a8048f0c1ab47b7aa5678c9f96e9, type: 3}
+  popitCostume: {fileID: 0}
+  popitBack: {fileID: 8300000, guid: a88d887dc22d52e46b413260dc5aa08d, type: 3}
+  type: 3
+--- !u!82 &6686101035614957734
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6686101035614957730}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 7303fe77f8a724b4f933259ad72e53f9, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 256
+  DopplerLevel: 1
+  MinDistance: 63.78
+  MaxDistance: 510.2
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!82 &6686101035614957732
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6686101035614957730}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 0eccc22c8c2424c42b18617fb9aad135, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 230.7
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

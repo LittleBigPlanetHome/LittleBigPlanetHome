@@ -1,0 +1,726 @@
+fileFormatVersion: 2
+guid: 6e78b88b2815bf545bafdf39327cb5fa
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_aircon_d
+    second: {fileID: 2100000, guid: b86313a16a77e884ca9c187eafef8032, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bamboo_01
+    second: {fileID: 2100000, guid: 17c8163599978cd498859a75e193c2b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bamboo_02
+    second: {fileID: 2100000, guid: 9f5056e2a5469534cb39464989712b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bamboo_03
+    second: {fileID: 2100000, guid: fd965230db951fe4d8b29f5e1db452a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bamboo_canopy
+    second: {fileID: 2100000, guid: e9415210647ffaa4fb9a5cae96a6abc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bamboo_canopy_02
+    second: {fileID: 2100000, guid: af7297231d86dda49808c79ad1eb7540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_pot_03
+    second: {fileID: 2100000, guid: 649dcf78003e31147badd023ef1f21b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_table_002
+    second: {fileID: 2100000, guid: 2c219674b1cc8004eac59609e59998bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree03
+    second: {fileID: 2100000, guid: 7607dfd9b4feba840a0df6c2802d176f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree03_foliage
+    second: {fileID: 2100000, guid: b9e3ba885c339eb48b1f44d9631d8e63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree04_foliage
+    second: {fileID: 2100000, guid: b18c5221e61182e468640083adae8ea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree04_trunk
+    second: {fileID: 2100000, guid: b8aef71a7f500b04b9d19de64b314c91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree06_foliage
+    second: {fileID: 2100000, guid: c5b99c635140505408e5dbe4a9f9bfca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree06_trunk
+    second: {fileID: 2100000, guid: 56be1bec59a773a49a6a0cfb77dec5f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree11
+    second: {fileID: 2100000, guid: 28bd6f5a32f8f854e99b5c67398cbdb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree13
+    second: {fileID: 2100000, guid: 85877cd1c63af5642958cb168d78aef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree14
+    second: {fileID: 2100000, guid: 24d88462a2da5a7468e88b644f4a837a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree15
+    second: {fileID: 2100000, guid: 52147eb324549154bb77ce9de0bf2317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree15_soil
+    second: {fileID: 2100000, guid: ec777a864a7d3c545b5aaa0abbf65577, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_brick_wall
+    second: {fileID: 2100000, guid: d3c57ae1ac3587b43aa657e98f6f3cca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_cable_cap
+    second: {fileID: 2100000, guid: e4cea73ac96a4d9458bccad19cca4872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_cement_d
+    second: {fileID: 2100000, guid: 6b61fe29968005f4b9480936794589af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_concrete02
+    second: {fileID: 2100000, guid: ee81eaf5517c01a4a9bff66288a7df57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_fg_soil_d
+    second: {fileID: 2100000, guid: 8dd6e8de5497f9447a7b16214f1e355c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_fg_stone_01
+    second: {fileID: 2100000, guid: 86cd4ebc91ba8a149844b73eaca8f2de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_fg_stone_02
+    second: {fileID: 2100000, guid: 8b30fa3cbbfbeb44eaee195f52bf5eaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_foreground_pebbles
+    second: {fileID: 2100000, guid: f6d244c6e55d6e143868d31c6e430364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_forest_floor
+    second: {fileID: 2100000, guid: 742c910e13064c9498e8481e8d8fa071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_frames_01
+    second: {fileID: 2100000, guid: 40d2104571ab1544ba8d3f0b6ddd8825, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_gutter_d
+    second: {fileID: 2100000, guid: e7527782296687c4ebe864183ef6bcfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_hammock
+    second: {fileID: 2100000, guid: e4c85d5216ca4f047a401021cb15e11c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_hammock_net
+    second: {fileID: 2100000, guid: f79d00e9db55574499958449c7424b69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_iron_roof
+    second: {fileID: 2100000, guid: e778def4d652c9d4e974d74863830931, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_large_tree
+    second: {fileID: 2100000, guid: c7dc10729ca44564bad1d374d7b0f5ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_large_tree_leaves
+    second: {fileID: 2100000, guid: 1c5b253455ec7744aa0dfa8a131fe23e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_m_crate01
+    second: {fileID: 2100000, guid: fed6e0a7c70a9554d8dc0945e127097e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_metal_01_d
+    second: {fileID: 2100000, guid: e5c5fc5b6d77e3144a555caa24f78376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_metal_plate
+    second: {fileID: 2100000, guid: fc4b74a641b77dc44859dcd8ad264892, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_mushroom_d
+    second: {fileID: 2100000, guid: b68c2b448c2778e479c886fba848e36c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_posts
+    second: {fileID: 2100000, guid: 4ac334ffb7f536644ac98ca0bb21f3d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_pot_bonsai_04
+    second: {fileID: 2100000, guid: 60e26735dc6e5e34a8edcbc77ab5a6b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_pot_bonsai_04_soil
+    second: {fileID: 2100000, guid: 7d8c0009b1fb19a4987077a8f1f14b8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_puddle_water_alpha
+    second: {fileID: 2100000, guid: 75c4623bb0e969343bb7c7c3629ae3c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_roof_02_d
+    second: {fileID: 2100000, guid: dd11a3ed6ef472446a4da497e6cdea26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_roof_tiles
+    second: {fileID: 2100000, guid: dd05567a8958939419ff71eb3a772de7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_sign_d
+    second: {fileID: 2100000, guid: fc15086842479ea49adcf5ebab37e0fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_sky_01
+    second: {fileID: 2100000, guid: 207863a0fb8bde549abcd52c28e16f3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_soil_d
+    second: {fileID: 2100000, guid: 16ee540c69379b84f862c2ac36d59c72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_stars_02_alpha
+    second: {fileID: 2100000, guid: 0265b6550c7ed484c99fe0137738c5ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_stone_d
+    second: {fileID: 2100000, guid: c8f15df3223468e4281b156516b71ddf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_telegraph_pole_wires
+    second: {fileID: 2100000, guid: d8848f329c0d10c40b4525c6e5593d8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_telephone mast
+    second: {fileID: 2100000, guid: 4d14c9f30e97fa34cbfbc49b75fdd897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_window_glassy
+    second: {fileID: 2100000, guid: be15104d152825343808a611f4efbdfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_wood_end_d
+    second: {fileID: 2100000, guid: 2392f137e953ee643b59696431af0df6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_wood_floor
+    second: {fileID: 2100000, guid: bed9edde6eb758d4593b7f562fdfa30d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_wood_panels_d
+    second: {fileID: 2100000, guid: 60eb2b6e7f3931f43bdb2418c57ba079, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_wood_plank
+    second: {fileID: 2100000, guid: 91808b942f5ebd74098eb4d2911cd160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mwbg_bonsai_tree02_foliage
+    second: {fileID: 2100000, guid: 4b5579d6e9c953a4484feca8c411c66a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mwbg_bonsai_tree02_trunk
+    second: {fileID: 2100000, guid: 481569ee4459e1949a00e005180a2d03, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: concrete_1_diffuse
+    second: {fileID: 2800000, guid: 974d3560795b40c409f5f614d7f9b6ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_aircon_d
+    second: {fileID: 2800000, guid: 0d6a965de18741e44a293ff72074c2bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_background_stars
+    second: {fileID: 2800000, guid: d2fc93dcf15ae3a49b7131ffaeb4c402, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bamboo
+    second: {fileID: 2800000, guid: 2f1b1244444525647a0dc0b854508170, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bamboo01
+    second: {fileID: 2800000, guid: 66bebc6be6a033b4cb9fe40d21cf20ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bark_d
+    second: {fileID: 2800000, guid: b995a9c67d11682478d8617d60c930c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree11_diff
+    second: {fileID: 2800000, guid: a26f11018eb09844d85646e9efb3d5af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree13_diff
+    second: {fileID: 2800000, guid: a930dfcfd50f9984b91f5a4913f94af7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree14
+    second: {fileID: 2800000, guid: 359eb420c1ccd7942bdeeffd89f01fa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_bonsai_tree15_diff
+    second: {fileID: 2800000, guid: 90a10141419bb204a91ddb1bea41280f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_brick_wall_d
+    second: {fileID: 2800000, guid: 0ef20984d1aaeb74ab8ab9d6b19180cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_cement02_d
+    second: {fileID: 2800000, guid: 49114b288e2f73c43ba4a1b8964fb172, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_fg_soil_n_converted
+    second: {fileID: 2800000, guid: b344cc5e9449545448b7b8670f76fc99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_fg_stone_01
+    second: {fileID: 2800000, guid: e6bad60f7617ec840bf5b1e2fb256762, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_fg_stone_01_n_converted
+    second: {fileID: 2800000, guid: e4804625a7a1902419d42c41d480364a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_fg_stone_02
+    second: {fileID: 2800000, guid: 668acd2747b96524f99f1b01721e0c99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_fg_stone_02_n_converted
+    second: {fileID: 2800000, guid: 94af38b4ef59a8c42991eb16298b2c15, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_frames_01_d
+    second: {fileID: 2800000, guid: 8936abe8358fb604796ed884a04f823b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_glass_alpha
+    second: {fileID: 2800000, guid: 5f832b5791534cf49915d067d42c2169, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_ground_diff
+    second: {fileID: 2800000, guid: 73c965e2ee302f94f83c8263fd8f2dfc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_gutter_d
+    second: {fileID: 2800000, guid: 0124f1440c8311b4c8a7943eaec3b89e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_hammock_diff
+    second: {fileID: 2800000, guid: 2b82d9605565c224386fcc3e3ba6a59c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_hammock_net_diff
+    second: {fileID: 2800000, guid: 81d7140431cdc4e478128d85047b47e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_hammock_net_normal_converted
+    second: {fileID: 2800000, guid: 10260a1070892334e8607516475ad102, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_hammock_normal_converted
+    second: {fileID: 2800000, guid: 0abb9985c4b8a6146917f00b9ea67a82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_leaf_01_d
+    second: {fileID: 2800000, guid: a8f190737208feb48b2ca18395c8185c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_m_crate
+    second: {fileID: 2800000, guid: f110b6c14bd016a47925a0d38da4abbe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_metal_01_d
+    second: {fileID: 2800000, guid: bf8ad472c57b24e4493f9231bcf3ef6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_mushroom_d
+    second: {fileID: 2800000, guid: 520f1f57d3517e048955915b1c3d8129, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_post_d
+    second: {fileID: 2800000, guid: d550552965db8a04f891532513940281, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_pot_bonsai_03_diff
+    second: {fileID: 2800000, guid: 25c99bc953885504cbf5a289fb10fa1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_pot_bonsai_04_diff
+    second: {fileID: 2800000, guid: 39adcb35a5fb9104f94051ad02fb7ab3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_roof_02_d
+    second: {fileID: 2800000, guid: 5e8f5146098ec9c4280ee12986fec039, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_roof_d
+    second: {fileID: 2800000, guid: 56ab7481406a1f14db444797e02545c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_roof_tiles_d
+    second: {fileID: 2800000, guid: 8aaaa570a8cfbfd448cc70630874d7ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_sign_d
+    second: {fileID: 2800000, guid: 20f89b40d3275c14bac39e2e85ffa364, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_soil_d
+    second: {fileID: 2800000, guid: bcd5f59cded0a6041b786f1f27bb2a55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_soil_n_converted
+    second: {fileID: 2800000, guid: 25b15fbe858939d4abbf49341d3516c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_stone_d
+    second: {fileID: 2800000, guid: 346ae772c0ff32642b60c4989816a329, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_telegraph_pole_wires_diff
+    second: {fileID: 2800000, guid: dde27c8721d27e5489077060b4087867, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_telephone_mast_plate
+    second: {fileID: 2800000, guid: ea7653638d3691b4392f49cae3de3384, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_waterfall_normal_converted
+    second: {fileID: 2800000, guid: c13c7991e47b03040b3ddee9fe39cf59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_wood_end_d
+    second: {fileID: 2800000, guid: fb1e490cd3b5ae6429030add0bbf8588, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_wood_floor_d
+    second: {fileID: 2800000, guid: 29f5a70dbf8743e479d5db6ff03572a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_wood_panels_d
+    second: {fileID: 2800000, guid: 0b9ae617978a4344083eba4cb01b8598, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mw_bg_wood_plank
+    second: {fileID: 2800000, guid: b1c9c54753106d74a9420b09d80916c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mwbg_bamboo_trunk02_diff
+    second: {fileID: 2800000, guid: 9675f51e539724a41aea9a9185ec0c98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mwbg_bonsai_tree02_branch_diff
+    second: {fileID: 2800000, guid: 54cb3d8ec06d4664da09609d15951b7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mwbg_bonsai_tree02_trunk_diff
+    second: {fileID: 2800000, guid: 6dafc660475a4c7458c1c3628e322a82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mwbg_bonsai_tree03_branch_diff
+    second: {fileID: 2800000, guid: 125baf0c7472c52429940198d65ab24c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mwbg_bonsai_tree03_trunk_diff
+    second: {fileID: 2800000, guid: 285a2164624d07e46a2e8c9e9f30d6ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mwbg_bonsai_tree04_branch_diff
+    second: {fileID: 2800000, guid: beefec5220f47094ebe5ed7f894276bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mwbg_bonsai_tree04_trunk_diff
+    second: {fileID: 2800000, guid: 0097bb35c53d8e642b3966c9bf93eac1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mwbg_bonsai_tree06_branch_diff
+    second: {fileID: 2800000, guid: cd3756da549de92449589f9a482b9725, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mwbg_bonsai_tree06_trunk_diff
+    second: {fileID: 2800000, guid: a4ff7f0d6726ee14cb75c17bfc274852, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mwbg_leaf_canopy_01_diff
+    second: {fileID: 2800000, guid: b4c41d941dff42a41be3a8f227faa476, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mwbg_leaf_canopy_diff
+    second: {fileID: 2800000, guid: 9c4bf1525ef10d7429080d88a15728e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: old_wood3_bump_converted
+    second: {fileID: 2800000, guid: ad2e06edd305a824a80d5ea2a1056c03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: old_wood3_diffuse
+    second: {fileID: 2800000, guid: 1aff5192fab693f47b40c94e1ed397f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: old_wood_bump_converted
+    second: {fileID: 2800000, guid: bb655742ef5eb1946855314482afb72f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: porcaline_cracks_bump_converted
+    second: {fileID: 2800000, guid: 70de14f3fa34a2549b9d7ce6f041e0d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: porcaline_cracks_diffuse
+    second: {fileID: 2800000, guid: e40fe9a07be33ab40a4d22b74bf3c3bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: russia_metalbeam_diffuse
+    second: {fileID: 2800000, guid: 09ea4d50cc7219744b3eb7c0b9b7d493, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rusty_painted_4_bump_converted
+    second: {fileID: 2800000, guid: cbd47ea83b592104eb554ca662d12f65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sky_03
+    second: {fileID: 2800000, guid: 9acdb84e5b14d6242b0d45f6a8f2b586, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{460841ac-6a10-4120-8cdc-5be5020fa430}">
+		<property name="assetPath">
+			<value>lbp3jingles/Manglewood_Phrase_009_WPhillips_8-11-14.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>9.1679999999999993</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{04a918bd-cd56-4f3b-a910-258ea480a5d8}</destination>
+		</relationship>
+	</object>
+</objects>

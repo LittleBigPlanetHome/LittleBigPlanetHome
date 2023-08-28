@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d68c103a-ffb5-4250-82af-1d22b9fff609}">
+		<property name="assetPath">
+			<value>pod/pod_badge_popup_b.wav.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>32</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.40000000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{04a918bd-cd56-4f3b-a910-258ea480a5d8}</destination>
+		</relationship>
+	</object>
+</objects>

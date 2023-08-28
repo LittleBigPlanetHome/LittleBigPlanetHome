@@ -1,0 +1,23 @@
+﻿Box {
+    flex-grow: 1;
+}
+
+#preview {
+    height: 300px;
+    width: 300px;
+    align-self: center;
+}
+
+#popit-info-scroll {
+    flex-grow: 1;
+}
+
+TemplateContainer {
+    flex-grow: 1;
+    flex-direction: row;
+}
+
+ListView {
+    width: 300px;
+    -unity-text-align: middle-center;
+}

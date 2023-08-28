@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 0a3cfe5ed165fcc489bac562fb0cf0aa
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bluebell_imposter
+    second: {fileID: 2100000, guid: a08cfae65b72e244d9e34365d1f7695a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bluebell_petal
+    second: {fileID: 2100000, guid: 6d324dbf93d11984b88fc55dc3359886, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bluebell_stem
+    second: {fileID: 2100000, guid: a7d43b95adb7cc1438ebba9573de9b14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: england_lamp_copper
+    second: {fileID: 2100000, guid: 6bce12ff7548daa47bd74c54d700256e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: england_lamp_light
+    second: {fileID: 2100000, guid: a927508956dd1b646868c4bf83f4c556, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garden_gnome
+    second: {fileID: 2100000, guid: 7c0affe76ff472e4f9d60a1aca52c240, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garden_stick
+    second: {fileID: 2100000, guid: 1f8de6c56ca98e04290de5809b23adf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garden_wall_brick_1
+    second: {fileID: 2100000, guid: 45cee2408b612a74d8113ac80c2ad267, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garden_wall_brick_2
+    second: {fileID: 2100000, guid: 39b96c75b1a1ed04eba42b01a69933c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garden_wall_brick_3
+    second: {fileID: 2100000, guid: 9c7bdaa72c07d8d42987bfabf609fb14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garden_wall_cement
+    second: {fileID: 2100000, guid: 3758ab14a86cbd64883d3b2ed42625fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_strip
+    second: {fileID: 2100000, guid: bde9674da3d5bf94889f736c9e40cb20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: laurel_branch
+    second: {fileID: 2100000, guid: 28401eb234a65314aad7c43f500e0971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: laurel_branch_imposter
+    second: {fileID: 2100000, guid: 8a04cc2f6705a604881e7f87e72d502e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: laurel_leaf
+    second: {fileID: 2100000, guid: d81573e9b2d836e4ab61076d3d768da4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: laurel_leaf_imposter
+    second: {fileID: 2100000, guid: f288c1761625d894380cd2a3225853b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: laurel_tree_trunk
+    second: {fileID: 2100000, guid: 6dc692e0caadea74894e6c2597d51c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pebble_1
+    second: {fileID: 2100000, guid: 95b6d3bc11d0f524695d18da5b21484e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pebble_2
+    second: {fileID: 2100000, guid: 0039da3c7d28d5f4482bea05dc8adccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pebble_3
+    second: {fileID: 2100000, guid: b6647b5449d7d6c4cb94b78dc4103623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: picket_fence
+    second: {fileID: 2100000, guid: 95946f29b6ab7d84ba6c97827e85439b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sea_shell_1
+    second: {fileID: 2100000, guid: ac9822a1a7d4f6f47b7c43e69928e94a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shovel_blade
+    second: {fileID: 2100000, guid: bc9d5ba2dffde7647903a1c93eadcc5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shovel_handle
+    second: {fileID: 2100000, guid: 8a7b3ea0abf5dc548aed9b8d8435bbd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shovel_wood
+    second: {fileID: 2100000, guid: 043122e20384f2647b506596d071f560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: star_light
+    second: {fileID: 2100000, guid: fb8389d919d4ce044a1def9376475572, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stoney_soil
+    second: {fileID: 2100000, guid: bb4e76bf6fb9e604b8882c49d99167f3, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
