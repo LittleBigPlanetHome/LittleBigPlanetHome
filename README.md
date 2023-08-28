@@ -1,5 +1,8 @@
 ### Welcome to the semi official open-source LittleBigPlanet Home Repository, the owner of this fan game wanted to gatekeep it but the team is different opinions, the game would go much smoother if it was available for everyone to contribute to and would also get finished much quicker, that's why we made this, you can try it out, fork it to make independend changes but also add to it. Have fun!
+ 
 
+
+                                                                                                               GAME IS NOT EVEN IN BETA!! so please help to develop it
 <!--
 **LittleBigPlanetHome/LittleBigPlanetHome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
